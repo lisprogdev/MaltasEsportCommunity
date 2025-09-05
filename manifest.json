@@ -1,0 +1,38 @@
+{
+  "name": "Maltas Esport Community",
+  "short_name": "Maltas Esport",
+  "description": "Komunitas gaming terbaik untuk para esports enthusiast. Tournament, event, dan kompetisi gaming seru menanti!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ff88",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "img/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "img/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "img/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["games", "entertainment", "sports"],
+  "lang": "id",
+  "scope": "/",
+  "prefer_related_applications": false
+}

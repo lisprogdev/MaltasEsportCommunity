@@ -1,0 +1,13 @@
+# ads.txt file for maltasesportcommunity.com
+# This file is used to authorize digital ad sellers
+
+# Format: domain.com, publisher_account_id, relationship_type, certification_authority_id
+
+# Google AdSense (contoh - ganti dengan ID yang sebenarnya)
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Facebook Audience Network (contoh - ganti dengan ID yang sebenarnya)  
+# facebook.com, XXXXXXXXXXXXXXXX, DIRECT, c3e20eee3f780d68
+
+# Tambahkan seller lain sesuai kebutuhan
+# Pastikan untuk mengganti dengan ID publisher yang sebenarnya sebelum go-live

@@ -1,0 +1,7 @@
+Contact: mailto:security@maltasesportcommunity.com
+Contact: https://maltasesportcommunity.com/contact
+Expires: 2024-12-31T23:59:59.000Z
+Encryption: https://maltasesportcommunity.com/pgp-key.txt
+Preferred-Languages: id, en
+Canonical: https://maltasesportcommunity.com/.well-known/security.txt
+Policy: https://maltasesportcommunity.com/security-policy

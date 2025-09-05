@@ -1,0 +1,39 @@
+/* TEAM */
+Developer: Maltas Esport Community Team
+Contact: info [at] maltasesportcommunity.com
+Instagram: @maltasesport_community
+Location: Indonesia
+
+/* SITE */
+Last update: 2024/01/15
+Language: Indonesian / English
+Doctype: HTML5
+IDE: Visual Studio Code, Cursor
+
+/* COMPONENTS */
+Framework: HTML5, CSS3, JavaScript
+CSS Framework: Tailwind CSS
+Icons: Boxicons
+Fonts: Google Fonts (Orbitron, Rajdhani)
+Animation: AOS (Animate On Scroll)
+
+                          .-.
+                         /   \
+                        |  o  |
+                         \___/
+                          |||
+                         /   \
+                    .-.  |   |  .-.
+                   /   \ |   | /   \
+                  |  o  ||   ||  o  |
+                   \___/ |   | \___/
+                         |   |
+                        /     \
+                       |  ___  |
+                       | |   | |
+                       | |___| |
+                        \     /
+                         '---'
+
+      Thanks for checking out our humans.txt!
+           We are Maltas Esport Community!
